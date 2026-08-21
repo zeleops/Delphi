@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.016,C:\Users\HP\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\HP\OneDrive\Desktop\delphi.test\delphi_U2lingo.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.737,C:\Users\HP\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\HP\OneDrive\Desktop\delphi.test\delphi_p2lingo..dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.937,=C:\Users\HP\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.016,C:\Users\HP\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\HP\OneDrive\Desktop\delphi.test\delphi_U2lingo.pas</Transaction>
+  </Transactions>
+</BorlandProject>

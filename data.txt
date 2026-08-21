@@ -1,0 +1,10 @@
+1           JOHN                DOE                JOHN.DOE@EXAMPLE.COM         ENGINEERING
+2           JANE                SMITH              JANE.SMITH@EXAMPLE.COM       MARKETING
+3           BOB                 JOHNSON            BOB.JOHNSON@EXAMPLE.COM      SALES
+4           ALICE               WILLIAMS           ALICE.WILLIAMS@EXAMPLE.COM   HUMAN RESOURCES
+5           MICHAEL             BROWN              MICHAEL.BROWN@EXAMPLE.COM    FINANCE
+6           EMILY               DAVIS              EMILY.DAVIS@EXAMPLE.COM      DESIGN
+7           DAVID               MILLER             DAVID.MILLER@EXAMPLE.COM     IT
+8           SARAH               WILSON             SARAH.WILSON@EXAMPLE.COM     OPERATIONS
+9           JAMES               MOORE              JAMES.MOORE@EXAMPLE.COM      ENGINEERING
+10          LISA                TAYLOR             LISA.TAYLOR@EXAMPLE.COM      MARKETING

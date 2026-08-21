@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.006,=C:\Users\HP\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.442,C:\Users\HP\OneDrive\Desktop\delphi.test\deplhi.u4.plus.dfm=C:\Users\HP\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.982,C:\Users\HP\OneDrive\Desktop\delphi.test\deplhi.p4.plus.dproj=C:\Users\HP\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.442,C:\Users\HP\OneDrive\Desktop\delphi.test\deplhi.u4.plus.pas=C:\Users\HP\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
